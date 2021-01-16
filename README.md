@@ -7,7 +7,7 @@
 
 <li>In folder Problems are located files with solutions of tasks in theory modules. </li>
 
-<li>In folder Simple Chatty Bot located project tasks files.</li>
+<li>In folder Loan Calculator located project tasks files.</li>
 </ul>
 
 ---
